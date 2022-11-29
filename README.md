@@ -1,4 +1,4 @@
-# exp04
+# exp4
 ### DISK SCHEDULING FIRST COME FIRST SERVE:
 ```
 #include <stdio.h>
